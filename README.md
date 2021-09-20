@@ -33,7 +33,7 @@
                 <h1>HELPING OTHERS IS THE WAY WE HELP OUR SELVES.</h1><br><br>
 	
                 <p>"Participate in changing the world."</p><br>
-                <a href="https://rzp.io/l/HCaCcBcYR7" class="btntwo"><button>Donate Now</button></a>
+                <a href="https://rzp.io/l/Cl7xepwx" class="btntwo"><button>Donate Now</button></a>
             </sec>
         </main>
    
